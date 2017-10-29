@@ -15,3 +15,7 @@ Extract words from the corpus without priori knowledge
 
 - extract_by_scan.cpp 直接扫描语料抽取新词
 - extract_by_suffix.cpp 扫描语料建立后缀数组再抽取新词，可利用lcp剪枝
+
+TODO
+--------
+模块化重构
